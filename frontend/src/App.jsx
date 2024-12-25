@@ -4,7 +4,7 @@ import './App.css'
 import Home from './pages/Home';
 import Login from './pages/Login';
 import Register from './pages/Register';
-import AuthLayout from './layout/AuthLayout';
+import AuthLayout from './layout/authLayout';
 import ForgotPassword from './pages/ForgotPassword';
 import Tabs from './pages/Tabs';
 import PostDetails from './pages/PostDetails';

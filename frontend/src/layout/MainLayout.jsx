@@ -1,7 +1,7 @@
 import { Navigate, Outlet } from 'react-router-dom';
 import Background from "../components/Background";
 import Sidebar from "../components/Sidebar"
-import './AuthLayout.css';
+import './authLayout.css';
 import { globalContext } from "../App";
 import { useContext } from 'react';
 import CreatePostPopUp from "../components/CreatePostPopUp";

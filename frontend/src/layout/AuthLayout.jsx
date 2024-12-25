@@ -1,6 +1,6 @@
 // src/layout/AuthLayout.jsx
 import { Outlet } from 'react-router-dom';
-import './AuthLayout.css';
+import './authLayout.css';
 function AuthLayout() {
   return (
     <div id="auth-background">
