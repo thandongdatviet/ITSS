@@ -3,7 +3,7 @@ import Tag from './Tag';
 import { Link } from 'react-router-dom';
 
 function Post({ post }) {
-  const fileServer = 'http://localhost:5000/';
+  const fileServer = 'http://localhost:5000';
 
   return (
     <div className="post-card">
